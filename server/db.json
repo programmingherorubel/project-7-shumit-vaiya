@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "20000",
+      "deadline": "2023-03-31",
+      "id": 1
+    },
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "2000",
+      "deadline": "2023-03-28",
+      "id": 4
+    },
+    {
+      "title": "QA Engineer",
+      "type": "Full Time",
+      "salary": "5000",
+      "deadline": "2023-04-07",
+      "id": 5
+    },
+    {
+      "title": "DevOps Engineer",
+      "type": "Internship",
+      "salary": "30000",
+      "deadline": "2023-04-01",
+      "id": 6
+    },
+    {
+      "title": "QA Engineer",
+      "type": "Internship",
+      "salary": "20000",
+      "deadline": "2023-03-24",
+      "id": 7
+    },
+    {
+      "title": "Junior Executive",
+      "type": "Full Time",
+      "salary": "30000",
+      "deadline": "2023-03-31",
+      "id": 8
+    }
+  ]
+}
